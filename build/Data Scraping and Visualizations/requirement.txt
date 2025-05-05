@@ -1,0 +1,14 @@
+## 🔧 Requirements
+
+- Python 3.8+
+- Google Chrome + ChromeDriver
+- MySQL Server
+- Libraries (see `requirements.txt`):
+  - selenium
+  - pandas
+  - streamlit
+  - matplotlib
+  - seaborn
+  - python-dotenv
+  - sqlalchemy
+  - pymysql
